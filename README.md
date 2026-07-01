@@ -10,7 +10,7 @@ A backend REST API project built with **FastAPI** and **MySQL**.
 - FastAPI
 - MySQL
 - JWT Authentication
-- Bcrypt Password Hashing
+- Bcrypt Password Hashing  
 - Swagger UI (auto-generated)
 
 ---
