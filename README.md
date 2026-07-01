@@ -4,7 +4,7 @@ A backend REST API project built with **FastAPI** and **MySQL**.
 
 ---
 
-## Tech Stack
+## Tech Stack     
 
 - Python
 - FastAPI
