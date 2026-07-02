@@ -1,6 +1,6 @@
 # Vendor Management & Purchase Request System
 
-A backend REST API project built with **FastAPI** and **MySQL**.
+A backend REST API project built with **FastAPI** and **MySQL**. 
 
 ---
 
