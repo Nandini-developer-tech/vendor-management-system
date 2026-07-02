@@ -23,7 +23,7 @@ vendor_management/
 ├── main.py          # Complete backend code
 ├── requirements.txt # Required packages
 ├── database.sql     # Database and table creation
-├── .env             # Environment variables
+├── .env             # Environment variables   
 └── README.md        # Project documentation
 ```
 
