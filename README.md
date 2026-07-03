@@ -81,7 +81,7 @@ DB_PASSWORD = "your_mysql_password"
 python main.py
 ```
 
-Or:
+Or:    
 
 ```bash
 uvicorn main:app --port 8080
