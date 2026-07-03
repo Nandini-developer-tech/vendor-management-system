@@ -15,7 +15,7 @@ A backend REST API project built with **FastAPI** and **MySQL**.
 
 ---
 
-## Project Structure
+## Project Structure  
 
 ```
 vendor_management/
